@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">Vseotlichno</string>
+    <string name="order_info">Order info:</string>
+    <string name="id_s" translatable="false">ID: %s</string>
+    <string name="date_s">Date: %s</string>
+    <string name="phone_s">Phone: %s</string>
+    <string name="goods_info">Goods:</string>
+    <string name="price_f_x" translatable="false">%f x</string>
+    <string name="good_summ_f" translatable="false">= %f</string>
+    <string name="good_detail_name_s" translatable="false">%s</string>
+    <string name="good_detail_article_d" translatable="false">%d</string>
+    <string name="good_detail_price_f">Price: %.2f</string>
+    <string name="quantity">Quantity</string>
+    <string name="good_detail_summ_2f">Total sum: %.2f</string>
+    <string name="enter_reason">Enter reason</string>
+    <string name="save">Save</string>
+    <string name="delivered_order">Delivered</string>
+</resources>

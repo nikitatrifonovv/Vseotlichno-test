@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vseotlichno</string>
+    <string name="order_info">"Информация о заказе: "</string>
+    <string name="date_s">Дата: %s</string>
+    <string name="phone_s">Телефон: %s</string>
+    <string name="goods_info">Товары:</string>
+    <string name="good_detail_price_f">Цена: %.2f</string>
+    <string name="quantity">Количество</string>
+    <string name="good_detail_summ_2f">Сумма: %.2f</string>
+    <string name="enter_reason">Введите причину</string>
+    <string name="save">Сохранить</string>
+    <string name="delivered_order">Доставить заказ</string>
+</resources>
